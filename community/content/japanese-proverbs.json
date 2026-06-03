@@ -424,11 +424,17 @@
   "romaji": "Warau kado ni wa fuku kitaru",
   "english": "Fortune comes to a laughing gate",
   "meaning": "Happiness and good fortune come to those who smile"
-},{
+},  {
   "japanese": "転ばぬ先の杖",
   "romaji": "Korobanu saki no tsue",
   "english": "A cane before falling",
   "meaning": "Prevention is better than cure"
-}
+},
+  {
+    "japanese": "猿も木から落ちる",
+    "romaji": "Saru mo ki kara ochiru",
+    "english": "Even monkeys fall from trees",
+    "meaning": "Experts also make mistakes"
+  }
 
 ]
